@@ -5,7 +5,7 @@
   "id": "2D747240-EC81-4AC2-96ED-623A548F11D1",
   "packageName": "com.yourcompany.teamsroulette",
   "developer": {
-    "name": "Your Name",
+    "name": "Parth Mehta",
     "websiteUrl": "https://teams-roulette.vercel.app/",
     "privacyUrl": "https://teams-roulette.vercel.app/",
     "termsOfUseUrl": "https://teams-roulette.vercel.app/"
@@ -33,5 +33,5 @@
     }
   ],
   "permissions": ["identity", "messageTeamMembers"],
-  "validDomains": ["https://teams-roulette.vercel.app/"]
+  "validDomains": ["teams-roulette.vercel.app"]
 }

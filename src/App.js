@@ -126,7 +126,7 @@ export default function App() {
         background: "linear-gradient(135deg, #6264A7 0%, #464775 40%, #8A8DFF 100%)"
       }}
     >
-      <h1 style={{ color: "#fff", fontFamily: "Arial, sans-serif" }}>Roulette Wheel</h1>
+      <h1 style={{ color: "#fff", fontFamily: "Arial, sans-serif" }}>Teams Roulette</h1>
       <input
         type="text"
         placeholder="Enter a name and press Enter"
